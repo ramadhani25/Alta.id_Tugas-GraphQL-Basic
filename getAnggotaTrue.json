@@ -1,0 +1,14 @@
+{
+  "data": {
+    "anggota": [
+      {
+        "id": 1,
+        "nama": "Budi"
+      },
+      {
+        "id": 2,
+        "nama": "Sita"
+      }
+    ]
+  }
+}
